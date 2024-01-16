@@ -1,2 +1,8 @@
 
 /* Your CSS Code here. */
+label{
+    display: block;
+	float: left;
+	width : 350px;
+	
+}
